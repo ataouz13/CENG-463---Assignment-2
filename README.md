@@ -37,4 +37,4 @@ This repository contains the software and scripts for completing the second assi
 
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/ataouz13/CENG-463---Assignment-2/tree/main)
+   git clone https://github.com/ataouz13/CENG-463---Assignment-2.git
